@@ -1,29 +1,27 @@
-## Introducing 
+---
+theme: blood
+---
 
-### Rust sdk for dagger 
+### Introducing 
 
-[dagger-rs](https://github.com/kjuulh/dagger-rs/tree/main/crates/dagger-sdk)
+#### Rust sdk for dagger 
 
 (contrib)
 
 ---
 
-# Boring stuff
+## Boring stuff
 
 - github: [@kjuulh](https://github.com/kjuulh)
 - discord: @Hermansen#4325
 
-<br>
-
 Platform Engineer [@lunar](https://www.lunar.app/en/personal)
-
-<br>
-
-Slides: [dagger-rs](https://github.com/kjuulh/talks/blob/main/2023-02-23-dagger-rs/dagger-rs.md)
 
 ---
 
-# Dagger sdk from scratch
+###  Dagger sdk from scratch
+
+[kjuuh/dagger-rs](https://github.com/kjuulh/dagger-rs/tree/main/crates/dagger-sdk)
 
 - Native codegeneration
 - Rust native code
@@ -31,7 +29,7 @@ Slides: [dagger-rs](https://github.com/kjuulh/talks/blob/main/2023-02-23-dagger-
 
 ---
 
-# Demo: 
+## Demo: 
 
 Adding dagger to [ripgrep](https://github.com/BurntSushi/ripgrep): 
 
@@ -40,7 +38,7 @@ Adding dagger to [ripgrep](https://github.com/BurntSushi/ripgrep):
 ---
 
 
-# Challenges
+## Challenges
 
 - Rusts memory model
 	- It makes the API more verbose
@@ -60,7 +58,7 @@ Adding dagger to [ripgrep](https://github.com/BurntSushi/ripgrep):
 
 ---
 
-# What is next?
+## What is next?
 
 - Adding more ergonomic handles
 - Adding more docker engine support (--quiet mode)
@@ -69,6 +67,6 @@ Adding dagger to [ripgrep](https://github.com/BurntSushi/ripgrep):
 
 ---
 
-# Slides
+## Slides
 
-<a href="www.qr-code-generator.com/" border="0" style="cursor:default" rel="nofollow"></a><img src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fkjuulh%2Ftalks%2Fblob%2Fmain%2F2023-02-23-dagger-rs%2Fdagger-rs.md&chs=180x180&choe=UTF-8&chld=L|2" width="600">
+<a href="www.qr-code-generator.com/" border="0" style="cursor:default" rel="nofollow"></a><img src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fkjuulh%2Ftalks%2Fblob%2Fmain%2F2023-02-23-dagger-rs%2Fdagger-rs.md&chs=180x180&choe=UTF-8&chld=L|2" width="400">
