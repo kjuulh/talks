@@ -2,7 +2,7 @@
 
 ### Rust sdk for dagger 
 
-https://github.com/kjuulh/dagger-rs
+[dagger-rs](https://github.com/kjuulh/dagger-rs/tree/main/crates/dagger-sdk)
 
 (contrib)
 
@@ -66,3 +66,9 @@ Adding dagger to [ripgrep](https://github.com/BurntSushi/ripgrep):
 - Adding more docker engine support (--quiet mode)
 - Custom logging and tracing
 - Fixing the codegeneration to be more ideomatic
+
+---
+
+# Slides
+
+<a href="www.qr-code-generator.com/" border="0" style="cursor:default" rel="nofollow"></a><img src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fkjuulh%2Ftalks%2Fblob%2Fmain%2F2023-02-23-dagger-rs%2Fdagger-rs.md&chs=180x180&choe=UTF-8&chld=L|2" width="600">
