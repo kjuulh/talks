@@ -13,7 +13,13 @@ https://github.com/kjuulh/dagger-rs
 - github: [@kjuulh](https://github.com/kjuulh)
 - discord: @Hermansen#4325
 
+<br>
+
 Platform Engineer [@lunar](https://www.lunar.app/en/personal)
+
+<br>
+
+Slides: [dagger-rs](https://github.com/kjuulh/talks/blob/main/2023-02-23-dagger-rs/dagger-rs.md)
 
 ---
 
