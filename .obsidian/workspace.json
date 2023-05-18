@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-23-dagger-rs/dagger-rs.md",
+                "file": "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "9201d74e6c85913b",
+        "id": "aff5ee6c4f4f4b9f",
         "type": "tabs",
         "children": [
           {
-            "id": "8aa5b96f683ac4ac",
+            "id": "436aeb55b04dc060",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -78,6 +78,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4be201df15d0d16c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -99,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-23-dagger-rs/dagger-rs.md",
+                "file": "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-23-dagger-rs/dagger-rs.md",
+                "file": "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-23-dagger-rs/dagger-rs.md"
+                "file": "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md"
               }
             }
           }
@@ -164,6 +172,8 @@
   "active": "c5f7b242f9287330",
   "lastOpenFiles": [
     "2023-02-23-dagger-rs/dagger-rs.md",
+    "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md",
+    "2023-05-18-alternative-dagger-usages",
     "2023-02-23-dagger-rs"
   ]
 }
