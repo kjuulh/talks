@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md",
+                "file": "2023-08-06-rust-sdk-updates/rust-sdk-updates.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ]
       },
       {
-        "id": "aff5ee6c4f4f4b9f",
+        "id": "f2cc11ff84608e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "436aeb55b04dc060",
+            "id": "4fa2b0babe5b31f2",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md",
+                "file": "2023-08-06-rust-sdk-updates/rust-sdk-updates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md",
+                "file": "2023-08-06-rust-sdk-updates/rust-sdk-updates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md"
+                "file": "2023-08-06-rust-sdk-updates/rust-sdk-updates.md"
               }
             }
           }
@@ -171,8 +171,10 @@
   },
   "active": "c5f7b242f9287330",
   "lastOpenFiles": [
-    "2023-02-23-dagger-rs/dagger-rs.md",
     "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md",
+    "2023-08-06-rust-sdk-updates/rust-sdk-updates.md",
+    "2023-08-06-rust-sdk-updates",
+    "2023-02-23-dagger-rs/dagger-rs.md",
     "2023-05-18-alternative-dagger-usages",
     "2023-02-23-dagger-rs"
   ]
