@@ -15,7 +15,7 @@
               "state": {
                 "file": "2023-08-06-rust-sdk-updates/rust-sdk-updates.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }

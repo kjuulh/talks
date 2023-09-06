@@ -1,5 +1,5 @@
 ---
-theme: blood
+theme: black
 ---
 
 ### Rust SDK Improvement
@@ -103,14 +103,6 @@ stateDiagram-v2
 
 ---
 
-### Next for Rust SDK
-
-- Raw structs -> traits and functions
-- Make version upgrades easier
-- Migrating away from `eyre` to `thiserror`
-
----
-
 ### Solving rust builds for fun and profit
 
 - Rust is very difficult to cache
@@ -118,3 +110,15 @@ stateDiagram-v2
 	- Compiling dependencies
 	- Compiling application code
 	- Is the same step (`cargo build`)
+
+---
+
+### Dagger to the rescue
+
+- Demo!
+
+### Next for Rust SDK
+
+- Raw structs -> traits and functions
+- Make version upgrades easier
+- Migrating away from `eyre` to `thiserror`
