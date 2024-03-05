@@ -299,4 +299,4 @@ jobs:
 
 Slides
 
-![[slides.png|500]]
+![[slides.png|400]]
