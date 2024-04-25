@@ -130,6 +130,11 @@ I will focus mainly on our experience at Lunar, what it looks like, what we've c
 
 ---
 
+### Interface
+
+![[interface.excalidraw]]
+
+---
 ### Developer Experience in practice
 
 - Finding problems to solve
