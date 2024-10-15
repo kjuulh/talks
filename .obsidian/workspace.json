@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-25-building-rust-for-production/slides.md",
+                "file": "2024-10-17-devops/slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "5596ce65e527a387",
+        "id": "582d6c56388b113f",
         "type": "tabs",
         "children": [
           {
-            "id": "6c9a983d87249135",
+            "id": "93593566812864fa",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303
+    "width": 289
   },
   "right": {
     "id": "9c5023aaf7dff3e1",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-25-building-rust-for-production/slides.md",
+                "file": "2024-10-17-devops/slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-25-building-rust-for-production/slides.md",
+                "file": "2024-10-17-devops/slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-25-building-rust-for-production/slides.md"
+                "file": "2024-10-17-devops/slides.md"
               }
             }
           },
@@ -184,36 +184,44 @@
   },
   "active": "8bc620bdc3f6361d",
   "lastOpenFiles": [
+    "2024-10-17-devops/diagrams/composition.excalidraw.md",
+    "2024-10-17-devops/diagrams/composition.excalidraw.png",
+    "2024-10-17-devops/diagrams/composition.excalidraw.svg",
+    "2024-10-17-devops/diagrams/team-topologies-part-researcher.excalidraw.md",
+    "2024-10-17-devops/diagrams/interface.excalidraw.md",
+    "2024-10-17-devops/diagrams/interface.excalidraw.png",
+    "2024-10-17-devops/diagrams/interface.excalidraw.svg",
+    "2024-03-06-devex/diagrams/interface.excalidraw.md",
+    "2024-10-17-devops/diagrams/team-topologies-platform-engineering.excalidraw.svg",
+    "2024-10-17-devops/diagrams/team-topologies-researcher.excalidraw.md",
+    "2024-10-17-devops/diagrams/team-topologies-researcher.excalidraw.png",
+    "2024-10-17-devops/diagrams/team-topologies-platform-engineering.excalidraw.md",
+    "2024-10-17-devops/diagrams/team-topologies-part-researcher.excalidraw.png",
+    "2024-10-17-devops/diagrams/team-topologies-part-researcher.excalidraw.svg",
+    "2024-10-17-devops/diagrams/team-topologies-researcher.excalidraw.svg",
+    "2024-10-17-devops/diagrams/team-topologies-platform-engineering.excalidraw.png",
+    "2024-10-17-devops/diagrams",
+    "2024-03-06-devex/diagrams/composition.excalidraw.md",
+    "2024-10-17-devops/slides.md",
+    "2024-10-17-devops/second-iteration.md",
     "2024-03-06-devex/slides.md",
     "2024-04-25-building-rust-for-production/slides.md",
+    "2024-10-17-devops/assets",
+    "2024-10-17-devops/abstract.md",
+    "2024-10-17-devops",
     "github.com/kjuulh/building-rust-for-production.md",
     "github.com/kjuulh",
     "github.com",
-    "2024-04-25-building-rust-for-production/assets/slides.png",
-    "2024-04-25-building-rust-for-production/assets/building-rust-for-production.png",
     "2024-04-25-building-rust-for-production/assets",
     "2024-04-25-building-rust-for-production",
-    "2024-03-06-devex/diagrams/team-topologies-researcher.excalidraw.png",
-    "2024-03-06-devex/diagrams/interface.excalidraw.md",
-    "2024-03-06-devex/diagrams/team-topologies-platform-engineering.excalidraw.png",
-    "2024-03-06-devex/diagrams/team-topologies-platform-engineering.excalidraw.svg",
-    "2024-03-06-devex/diagrams/composition.excalidraw.md",
-    "2024-03-06-devex/diagrams/composition.excalidraw.png",
-    "2024-03-06-devex/diagrams/composition.excalidraw.svg",
     "2024-03-06-devex/output/slides.pdf",
     "2024-03-06-devex/output",
-    "2024-03-06-devex/assets/slides.png",
     "2024-03-06-devex/assets/Untitled",
-    "2024-03-06-devex/assets/ci-success.png",
-    "2024-03-06-devex/assets/shuttle-yaml.png",
-    "2024-03-06-devex/assets",
     "2024-03-06-devex/diagrams/team-topologies-part-researcher.excalidraw.md",
     "2024-03-06-devex/diagrams/team-topologies-platform-engineering.excalidraw.md",
     "2024-03-06-devex/diagrams/team-topologies-researcher.excalidraw.md",
-    "2024-03-06-devex/diagrams",
     "2024-03-06-devex/synopsis.md",
     "2024-03-06-devex/abstract.md",
-    "2024-03-06-devex",
     "2023-05-18-alternative-dagger-usages/alternative-ways-to-use-dagger.md",
     "2023-09-07-rust-sdk-updates/rust-sdk-updates.md",
     "2023-02-23-dagger-rs/dagger-rs.md"
