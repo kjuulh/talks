@@ -16,21 +16,25 @@
                 "file": "2024-10-17-devops/slides.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "slides"
             }
           }
         ]
       },
       {
-        "id": "582d6c56388b113f",
+        "id": "5a52c4fff1738d83",
         "type": "tabs",
         "children": [
           {
-            "id": "93593566812864fa",
+            "id": "64e6889cd2980586",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
             }
           }
         ]
@@ -53,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -68,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -76,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -84,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -115,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for slides"
             }
           },
           {
@@ -127,7 +141,9 @@
                 "file": "2024-10-17-devops/slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from slides"
             }
           },
           {
@@ -138,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -148,7 +166,9 @@
               "type": "outline",
               "state": {
                 "file": "2024-10-17-devops/slides.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of slides"
             }
           },
           {
@@ -160,7 +180,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -184,28 +206,28 @@
   },
   "active": "8bc620bdc3f6361d",
   "lastOpenFiles": [
+    "2024-10-17-devops/assets/logs.png",
+    "2024-10-17-devops/slides.md",
+    "2024-10-17-devops/assets/grafana.png",
+    "2024-04-25-building-rust-for-production/slides.md",
+    "2024-04-25-building-rust-for-production/assets/slides.png",
+    "2024-03-06-devex/assets/service-fresh.png",
+    "2024-03-06-devex/assets/shuttle-yaml.png",
+    "2024-03-06-devex/assets/slides.png",
+    "2024-03-06-devex/assets/ci-success.png",
+    "2024-03-06-devex/assets/backstage-create-service.png",
+    "2024-03-06-devex/assets/backstage-catalog.png",
+    "2024-10-17-devops/assets/qr.png",
     "2024-10-17-devops/diagrams/composition.excalidraw.md",
-    "2024-10-17-devops/diagrams/composition.excalidraw.png",
-    "2024-10-17-devops/diagrams/composition.excalidraw.svg",
     "2024-10-17-devops/diagrams/team-topologies-part-researcher.excalidraw.md",
     "2024-10-17-devops/diagrams/interface.excalidraw.md",
-    "2024-10-17-devops/diagrams/interface.excalidraw.png",
-    "2024-10-17-devops/diagrams/interface.excalidraw.svg",
     "2024-03-06-devex/diagrams/interface.excalidraw.md",
-    "2024-10-17-devops/diagrams/team-topologies-platform-engineering.excalidraw.svg",
     "2024-10-17-devops/diagrams/team-topologies-researcher.excalidraw.md",
-    "2024-10-17-devops/diagrams/team-topologies-researcher.excalidraw.png",
     "2024-10-17-devops/diagrams/team-topologies-platform-engineering.excalidraw.md",
-    "2024-10-17-devops/diagrams/team-topologies-part-researcher.excalidraw.png",
-    "2024-10-17-devops/diagrams/team-topologies-part-researcher.excalidraw.svg",
-    "2024-10-17-devops/diagrams/team-topologies-researcher.excalidraw.svg",
-    "2024-10-17-devops/diagrams/team-topologies-platform-engineering.excalidraw.png",
     "2024-10-17-devops/diagrams",
     "2024-03-06-devex/diagrams/composition.excalidraw.md",
-    "2024-10-17-devops/slides.md",
     "2024-10-17-devops/second-iteration.md",
     "2024-03-06-devex/slides.md",
-    "2024-04-25-building-rust-for-production/slides.md",
     "2024-10-17-devops/assets",
     "2024-10-17-devops/abstract.md",
     "2024-10-17-devops",

@@ -1,5 +1,5 @@
 ---
-theme: night
+theme: white
 progress: false
 ---
 ## Crafting Highly-Efficient Workflows
@@ -50,6 +50,10 @@ Keep it updated and secure
 
 ---
 
+Can be anything related to make engineers more effective
+
+---
+
 ## History
 
 ---
@@ -83,6 +87,8 @@ Developer Experience was created to figure out exactly that
 ---
 # Demo
 
+Create a code project
+
 notes:
 
 showcase developer workflow, create a repository, run code, create upstream repository, push code, and sync to ci
@@ -90,6 +96,22 @@ showcase developer workflow, create a repository, run code, create upstream repo
 As platform engineers working on a developer efficiency journey, we want to get you go be the most effective you can be at providing the most value to the business as possible.
 
 And that means focusing as much as possible on feature development as you can, with the highest quality, security and reliable, while still being end-2-end responsible for the feature.
+
+```
+z git.front.kjuulh.io/kjuulh
+git init mindsandco
+cd mindsandco
+cuddle init
+ghrc
+gitea
+open https://git.front.kjuulh.io/kjuulh/mindsandco
+open https://ci.i.kjuulh.io
+sync
+Enable mindsandco
+gca "feat: add minds and co"
+gp
+curl the site
+```
 
 ---
 ## So you want to build a platform?
@@ -159,20 +181,6 @@ notes:
 We're solving a problem, not selling a technology, we want the why. As an engineer you want to ship code to production, build new features, have good metrics to understand what is going on in your products. Platform Engineering helps facilitate that
 
 ---
-## Golden Path
-
----
-
-## Get in control
-
----
-## Demo
-
-notes:
-
-Show a git push, build and release, and be able to hit it
-
----
 ### Platform Engineering
 
 notes:
@@ -183,6 +191,99 @@ We build software and setup infrastructure to provide a holistic abstraction tha
 
 ---
 
+## Platform Engineering Organisation
+
+---
+
+![[2024-10-17-devops/diagrams/interface.excalidraw.svg]]
+
+---
+
+![[2024-10-17-devops/diagrams/composition.excalidraw.svg]]
+
+---
+
+### Beginning
+
+![[2024-10-17-devops/diagrams/team-topologies-platform-engineering.excalidraw.svg]]
+
+---
+
+### Specialized team members
+
+![[2024-10-17-devops/diagrams/team-topologies-part-researcher.excalidraw.svg]]
+
+---
+
+## Separate resources
+
+![[2024-10-17-devops/diagrams/team-topologies-researcher.excalidraw.svg]]
+
+---
+
+
+# Demo 
+
+Maintain a code project
+
+notes:
+
+Renovate - Dependencies
+
+```
+open https://git.front.kjuulh.io/kjuulh # show renovate
+```
+
+---
+
+## Metrics
+
+![[grafana.png]]
+
+---
+
+## Logging
+
+![[logs.png]]
+
+---
+
+## Get in control
+
+The platform team should own the code
+
+```yaml
+kind: template
+load: cuddle-rust-service-plan.yaml
+```
+
+---
+## Golden Path
+
+Solve one thing and do it well
+
+---
+## It is okay to build opinionated tools
+
+---
+## Provide small sharp tools
+
+```golang
+func main() {
+	db, err := postgres.Connect()
+}
+```
+
+---
+## Demo
+Outsource infrastructure details
+
+```
+show cuddle.yaml
+show .drone.yaml
+```
+
+---
 ## Building a platform is a Journey
 
 And you can't have everything at once
@@ -212,6 +313,19 @@ What do we actually want to solve.
 
 ---
 
+## Showing value
+
+Focus on what value you bring to the business through others
+
+---
+
+## Indirect
+
+---
+
+## Direct
+
+---
 ### Feedback loops are important
 
 notes:
@@ -227,7 +341,7 @@ We want to make to feedback cycles as short and reliable as possible. Imagine yo
 1 hour to deploy
 1 deploy every week
 = 
-1 change to get it right every week
+1 chance to get it right every week
 ```
 
 ---
@@ -246,11 +360,15 @@ We want to make to feedback cycles as short and reliable as possible. Imagine yo
 
 ## Demo
 
+Get our code in the hands of our customers
+
  notes: 
-
+```
 Run pipeline locally, should be prewarmed
-
 See it run
+curl the website
+```
+
 
 ---
 
@@ -301,7 +419,6 @@ The team should only need to focus on
 	- 5 minutes
 
 ---
-
 
 ## Example metrics
 
@@ -368,3 +485,12 @@ Do we want to release to everybody at once
 
 notes: 
 Show a simple pipeline using dagger (dagger cuddle-rust-service-plan) and see it being deployed. hit it with curl
+
+
+---
+
+# Questions
+
+slides: github.com/kjuulh/talks
+
+![[qr.png]]
